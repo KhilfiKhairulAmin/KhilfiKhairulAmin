@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <p><img src="https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Akai_Avatar.png/revision/latest/scale-to-width-down/150?cb=20200707134541"></p>
   <h1>кнιℓƒιMCGツ</h1>
-  <p><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Welcome visitor! Please make yourself at home... here we have made a handful of wonderful projects for you to check out! Feel free to download and run these projects on your local environments. Be sure to <i>Follow</i> and leave a <i>⭐</i> if you like the projex!</p>
+  <p><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Welcome visitor! Please make yourself at home... here we have made a handful of wonderful projects for you to check out! Feel free to download and run these projects on your local environments. Be sure to <i>Follow</i> and leave a <i>⭐</i> if you like these projects!</p>
 </div>
 <h3>Proficiency</h3>
 <p>
