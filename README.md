@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <p><img src="https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Akai_Avatar.png/revision/latest/scale-to-width-down/150?cb=20200707134541"></p>
   <h1>кнιℓƒιMCGツ</h1>
-  <h4><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Welcome visitor! Please make yourself at home... here we have made a handful of wonderful projects for you to check out! Feel free to download and run these projects on your local environments. Be sure to <i>Follow</i> and leave a <i>⭐</i> if you like any of these projects!</h4>
+  <p><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Welcome visitor! Please make yourself at home... here we have made a handful of wonderful projects for you to check out! Feel free to download and run these projects on your local environments. Be sure to <i>Follow</i> and leave a <i>⭐</i> if you like any of these projects!</p>
 </div>
-<h1></h1>
 <h3>Proficiency</h3>
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
