@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <p><img src="https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Akai_Avatar.png/revision/latest/scale-to-width-down/150?cb=20200707134541"></p>
   <h1>кнιℓƒιMCGツ</h1>
+  <p>Hi, welcome to my GitHub repo! Here, you can expect a handful of wonderful projects relating to web development and scripts. Make sure to <i>follow</i> me to get new updates on my project!</p>
 </div>
 <h3>Proficiency</h3>
 <p>
