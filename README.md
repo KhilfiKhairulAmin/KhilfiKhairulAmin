@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=FFFFFF&center=true&width=550&height=100&lines=Greetings+to+whose+here!;Khilfi+is+the+CEO+of+this+land;Please+enjoy+your+stay+here!" alt="Typing SVG" /></a>
   <p><img src="https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Akai_Avatar.png/revision/latest/scale-to-width-down/150?cb=20200707134541"></p>
   <h6>MLBB alias:</h6>
   <h1>
