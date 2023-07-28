@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=FFFFFF&center=true&width=550&height=100&lines=Greetings+to+whose+here!;Khilfi+is+the+CEO+of+this+land;Feel+free+to+roam+around!" alt="Typing SVG" /></a>
   <p><img src="https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Akai_Avatar.png/revision/latest/scale-to-width-down/150?cb=20200707134541"></p>
-  <h6>Game (MLBB) alias:</h6>
+  <h6>MLBB alias:</h6>
   <h1>
     кнιℓƒιMCGツ
     <p>
