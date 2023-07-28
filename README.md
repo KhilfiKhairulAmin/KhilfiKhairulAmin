@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <p><img src="https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Akai_Avatar.png/revision/latest/scale-to-width-down/150?cb=20200707134541"></p>
+  <h6>MLBB alias:</h6>
   <h1>
     кнιℓƒιMCGツ
     <p>
