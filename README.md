@@ -34,6 +34,8 @@
   <img src="https://streak-stats.demolab.com?user=KhilfiKhairulAmin&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 <h1></h1>
+<h3>Consistency</h3>
+Below is my activities tracker on GitHub. If you ever see my activity count 0 yesterday, please say Hi to me. I'll try to commit everyday so that I know that I can do something consistently even if it's small.
 <!--
 **KhilfiKhairulAmin/KhilfiKhairulAmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
