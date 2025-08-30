@@ -35,7 +35,7 @@
 </div>
 <h1></h1>
 <h3>Consistency</h3>
-Below is my activities tracker on GitHub. If you ever see my activity count 0 yesterday, please say Hi to me. I'll try to commit everyday so that I know that I can do something consistently even if it's small.
+Below is my contributions tracker on GitHub. If you ever see my activity count 0 yesterday, please say Hi to me. I'll try to commit everyday so that I know that I can do something consistently even if it's small.
 <!--
 **KhilfiKhairulAmin/KhilfiKhairulAmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
